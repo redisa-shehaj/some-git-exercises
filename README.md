@@ -1,2 +1,1 @@
-#GIT EXERCISE
-Welcome
+Some text
